@@ -1,6 +1,6 @@
 # API Clientes
 
-## Descripción:
+## Descripción
 Proyecto de API REST desarrollado con Java/Spring Boot para la gestión de clientes.
 
 ## Requisitos
