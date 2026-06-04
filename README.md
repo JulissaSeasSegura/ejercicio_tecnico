@@ -5,7 +5,7 @@ Proyecto de API REST desarrollado con Java/Spring Boot para la gestión de clien
 
 ## Requisitos
 - Git
-- Java 21 (lts)
+- Java 21 (LTS)
 - Spring Boot 3.5.14
 - Maven
 - IDE compatible (Utilizado VSC)
